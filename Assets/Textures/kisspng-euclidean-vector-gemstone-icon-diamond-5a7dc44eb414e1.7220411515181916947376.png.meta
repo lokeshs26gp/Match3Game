@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: c1d074e5a7cb96c46850d3f0ad200659
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5247394220542861861
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_0
+  - first:
+      213: -3111249553719945387
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_1
+  - first:
+      213: -1252634224351369782
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_2
+  - first:
+      213: -6608427878539773103
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_3
+  - first:
+      213: 7977200475673269537
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_4
+  - first:
+      213: -5968265510168177307
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_5
+  - first:
+      213: -478153348263543138
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_6
+  - first:
+      213: 506483646199809316
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_7
+  - first:
+      213: 4399615249934724555
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_8
+  - first:
+      213: -1572897798364017326
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_9
+  - first:
+      213: 5694937996562193956
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_10
+  - first:
+      213: -6420169705182747152
+    second: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 797
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daba5b3197f82994d814dfa947944660
+      internalID: -5247394220542861861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_1
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1096
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfe9c4ac6c07c4488fc766e4fd4dea2
+      internalID: -3111249553719945387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_2
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 787
+        width: 309
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c732455d45225489682e07ff2b6b3c
+      internalID: -1252634224351369782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 805
+        width: 296
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7a6789faf3e6643837cc6b85819a62
+      internalID: -6608427878539773103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 803
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc7b040e9fa4c546b49556210007928
+      internalID: 7977200475673269537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 313
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c2155354046e47b1e42ff315189e1
+      internalID: -5968265510168177307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 418
+        width: 304
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fba51643a649749ab9880d988fcfc2
+      internalID: -478153348263543138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_7
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 406
+        width: 295
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed211d63e7f2a14cac08b20162f1ae1
+      internalID: 506483646199809316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 302
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4280c1180aac42808a9342d56068a
+      internalID: 4399615249934724555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 310
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d4a06dcb0589c4d8561ebb3091046c
+      internalID: -1572897798364017326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_10
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 152
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c753e035c1743f41bb11bfb58e49510
+      internalID: 5694937996562193956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-gemstone-icon-diamond-5a7dc44eb414e1.7220411515181916947376_11
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 0
+        width: 300
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c89bf480fecbb46a006ece16cf2215
+      internalID: -6420169705182747152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fe130ae197ee6d641a4a06a9569104ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
